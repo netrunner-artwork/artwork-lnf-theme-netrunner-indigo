@@ -1,0 +1,17 @@
+Source: artwork-lnf-theme-netrunner-indigo
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: artwork-lnf-theme-netrunner-indigo
+Architecture: all
+Depends: artwork-wallpapers-netrunner-desktop,
+         aurorae-theme-indigo,
+         desktop-theme-bluex,
+         plasma-widget-volumewin7mixer,
+         qt5-style-kvantum
+Recommends: gtk3-engines-breeze
+Description: Look and Feel packages
+  This package provides the indigo look and feel package for Netrunner.
