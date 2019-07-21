@@ -6,7 +6,7 @@ widgetStyle=kvantum
 SingleClick=false
 
 [kdeglobals][Icons]
-Theme=Breeze
+Theme=breeze
 
 [kcminputrc][Mouse]
 cursorTheme=RED-Modern
