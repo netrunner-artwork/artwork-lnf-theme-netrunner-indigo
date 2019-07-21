@@ -20,3 +20,6 @@ name=blue-x
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Indigo
+
+[auroraerc][Indigo]
+ButtonSize=2
