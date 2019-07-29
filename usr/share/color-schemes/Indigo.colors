@@ -109,6 +109,7 @@ shadeSortColumn=true
 
 [KDE]
 contrast=4
+SingleClick=false
 
 [WM]
 activeBackground=71,80,87
