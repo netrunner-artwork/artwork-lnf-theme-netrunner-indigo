@@ -25,7 +25,7 @@ if (freeEdges["bottom"] == true) {
     panel.location = "top";
 }
 
-panel.height = screenGeometry(panel.screen).height > 1024 ? 48 : 37
+panel.height = screenGeometry(panel.screen).height > 1024 ? 50 : 37
 
 panel.addWidget("org.kde.plasma.kickerdash")
 
@@ -49,4 +49,3 @@ panel.addWidget('org.kde.plasma.volumewin7mixer')
 panel.addWidget("org.kde.plasma.systemtray")
 panel.addWidget("org.kde.plasma.digitalclock")
 panel.addWidget("org.kde.plasma.notifications")
-
