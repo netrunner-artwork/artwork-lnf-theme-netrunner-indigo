@@ -25,7 +25,7 @@ if (freeEdges["bottom"] == true) {
     panel.location = "top";
 }
 
-panel.height = screenGeometry(panel.screen).height > 1080 ? 100 : 50
+panel.height = gridUnit * 3
 
 panel.addWidget("org.kde.plasma.kickerdash")
 
