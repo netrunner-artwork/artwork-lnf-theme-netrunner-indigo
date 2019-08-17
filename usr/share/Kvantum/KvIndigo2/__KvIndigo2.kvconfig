@@ -56,7 +56,7 @@ animate_states=true
 tree_branch_line=true
 button_contents_shift=true
 contrast=1.00
-dialog_button_layout=4
+dialog_button_layout=1
 groupbox_top_label=false
 intensity=1.00
 joined_inactive_tabs=true
@@ -109,7 +109,7 @@ transparent_menutitle=false
 transparent_arrow_button=true
 respect_darkness=false
 kcapacitybar_as_progressbar=true
-force_size_grip=true
+force_size_grip=false
 iconless_pushbutton=false
 iconless_menu=false
 disabled_icon_opacity=100
@@ -320,7 +320,7 @@ text.bold=true
 frame.expansion=0
 
 [SizeGrip]
-indicator.element=resize-grip
+indicator.element=
 
 [Toolbar]
 inherits=PanelButtonCommand
