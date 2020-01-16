@@ -18,8 +18,7 @@ Containment=org.kde.plasma.folder
 name=blue-x
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Indigo
+library=org.kde.breeze
 
 [auroraerc][Indigo]
 ButtonSize=2
