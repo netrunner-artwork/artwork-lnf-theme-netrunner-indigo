@@ -8,7 +8,6 @@ Standards-Version: 3.7.2
 Package: artwork-lnf-theme-netrunner-indigo
 Architecture: all
 Depends: artwork-wallpapers-netrunner-desktop,
-         aurorae-theme-indigo,
          desktop-theme-bluex,
          plasma-widget-volumewin7mixer,
          qt5-style-kvantum
