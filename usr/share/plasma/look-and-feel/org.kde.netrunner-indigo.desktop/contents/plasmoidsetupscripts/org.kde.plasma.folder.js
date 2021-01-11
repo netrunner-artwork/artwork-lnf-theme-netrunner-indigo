@@ -1,6 +1,6 @@
 applet.wallpaperPlugin = 'org.kde.image'
 applet.currentConfigGroup = ["Wallpaper", "org.kde.image", "General"]
-applet.writeConfig("Image", "file:///usr/share/wallpapers/netrunner-desktop-2001/Netrunner Twenty.png")
+applet.writeConfig("Image", "file:///usr/share/wallpapers/netrunner-desktop-2101/netrunner-21-xoxo.jpg")
 applet.writeConfig("FillMode", "2")
 applet.currentConfigGroup = new Array("General");
 applet.writeConfig("positions","1,7,desktop:/mycomputer.desktop,0,0,desktop:/Network,0,1,desktop:/welcome.desktop,0,2,desktop:/calamares.desktop,0,3")
