@@ -12,5 +12,7 @@ Depends: artwork-wallpapers-netrunner-desktop,
          plasma-widget-volumewin7mixer,
          qt5-style-kvantum
 Recommends: gtk3-engines-breeze
+Breaks: aurorae-theme-indigo
+Replaces: aurorae-theme-indigo
 Description: Look and Feel packages
   This package provides the indigo look and feel package for Netrunner.
